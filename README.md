@@ -3,7 +3,7 @@
 
 An advanced career assistant powered by **Google Gemini 1.5 Flash**, **FAISS**, and **RAG (Retrieval-Augmented Generation)**. This ChatGPT-style web app helps job seekers generate cover letters, analyze resumes, extract insights from job descriptions, and even answer questions from uploaded PDFs.
 
-![AI Career Tutor Demo](demo.png)
+
 <img width="1919" height="950" alt="demo" src="https://github.com/user-attachments/assets/062ba2ec-470a-4305-8aa3-3015b48499d4" />
 
 ---
