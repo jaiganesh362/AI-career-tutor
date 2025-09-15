@@ -112,7 +112,7 @@ python -m streamlit run app/main.py
 
 ## 👤 About the Author
 
-**Devesh Kumar P**  
+**Jaiganesh V**  
 📧 [jaiganesh362@gmail.com](mailto:jaiganesh362@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jai-ganesh-1v) | [GitHub](https://github.com/jaiganesh362)
 
